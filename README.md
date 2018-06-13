@@ -19,3 +19,14 @@
 
 > * The eight algorithms were trained on the whole training set for the final predictions which would be blended.
 > * The blender was trained on the full probe set after recording the rmse. This was only done after the model was selected
+
+#### License
+
+GNU GENERAL PUBLIC LICENSE
+
+Version 3, 29 June 2007
+
+
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
